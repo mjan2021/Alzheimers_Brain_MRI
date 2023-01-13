@@ -1,7 +1,7 @@
 data/MRI/*
 output_files/*
 save/*
-Tensorboard/*
+
 models/*
 models/GAN/*
 
