@@ -1,0 +1,9 @@
+@software{Alzheimers_classification,
+  author = {Muhammad Tanveer Jan},
+  doi = {},
+  month = {12},
+  title = {{Alzheimers Classification using brain MRI}},
+  url = {https://github.com/mjan2021/Alzheimers_Brain_MRI},
+  version = {1.0},
+  year = {2023}
+}
