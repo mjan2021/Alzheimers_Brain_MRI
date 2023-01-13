@@ -1,0 +1,12 @@
+data/MRI/*
+output_files/*
+save/*
+Tensorboard/*
+models/*
+models/GAN/*
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
+
+venv/*

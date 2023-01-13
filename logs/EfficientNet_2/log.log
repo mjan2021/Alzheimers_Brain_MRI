@@ -1,0 +1,33 @@
+2023-01-12 21:00:34,838 INFO  __main__        - Log file is ../logs/EfficientNet_2//log.log
+2023-01-12 21:00:34,838 INFO  __main__        - Device: cuda:0
+2023-01-12 21:00:34,838 INFO  __main__        - Fold: 0, Model: EfficientNet
+2023-01-12 21:01:22,605 INFO  __main__        - Epoch: 0/2
+2023-01-12 21:01:22,605 INFO  __main__        - Average Training Loss: 1.134633125861486
+2023-01-12 21:01:22,605 INFO  __main__        - Average Validation Loss: 1.1425462106863657
+2023-01-12 21:01:22,605 INFO  __main__        - Average Training Acc: 35.833333333333336
+2023-01-12 21:01:22,605 INFO  __main__        - Average Validation acc: 33.75
+2023-01-12 21:01:22,605 INFO  __main__        - New High Acc:  37.5
+2023-01-12 21:02:11,389 INFO  __main__        - Epoch: 1/2
+2023-01-12 21:02:11,389 INFO  __main__        - Average Training Loss: 0.7134804507096608
+2023-01-12 21:02:11,389 INFO  __main__        - Average Validation Loss: 1.4749270300070445
+2023-01-12 21:02:11,389 INFO  __main__        - Average Training Acc: 73.33333333333333
+2023-01-12 21:02:11,389 INFO  __main__        - Average Validation acc: 37.083333333333336
+2023-01-12 21:02:11,389 INFO  __main__        - New High Acc:  39.166666666666664
+2023-01-12 21:02:21,904 INFO  __main__        - Fold/Acc: 39.166666666666664 : 0
+2023-01-12 21:02:21,904 INFO  __main__        - Fold/Loss: 1.4285589734713235 :0
+2023-01-12 21:02:21,904 INFO  __main__        - Fold: 1, Model: EfficientNet
+2023-01-12 21:03:09,338 INFO  __main__        - Epoch: 0/2
+2023-01-12 21:03:09,338 INFO  __main__        - Average Training Loss: 1.1876112381617228
+2023-01-12 21:03:09,338 INFO  __main__        - Average Validation Loss: 0.737212535738945
+2023-01-12 21:03:09,338 INFO  __main__        - Average Training Acc: 41.25
+2023-01-12 21:03:09,338 INFO  __main__        - Average Validation acc: 75.0
+2023-01-12 21:03:09,338 INFO  __main__        - New High Acc:  51.66666666666667
+2023-01-12 21:03:58,009 INFO  __main__        - Epoch: 1/2
+2023-01-12 21:03:58,009 INFO  __main__        - Average Training Loss: 0.705384107430776
+2023-01-12 21:03:58,009 INFO  __main__        - Average Validation Loss: 0.5872912913560867
+2023-01-12 21:03:58,009 INFO  __main__        - Average Training Acc: 75.0
+2023-01-12 21:03:58,009 INFO  __main__        - Average Validation acc: 80.41666666666667
+2023-01-12 21:03:58,009 INFO  __main__        - New High Acc:  57.49999999999999
+2023-01-12 21:04:08,439 INFO  __main__        - Fold/Acc: 57.49999999999999 : 1
+2023-01-12 21:04:08,439 INFO  __main__        - Fold/Loss: 0.9443538784980774 :1
+2023-01-12 21:04:08,439 INFO  __main__        - EfficientNet Training completed in -4m 26s

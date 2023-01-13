@@ -1,0 +1,55 @@
+2023-01-10 14:25:33,098 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-10 14:25:33,098 INFO  __main__        - Device: cuda:0
+2023-01-10 14:25:33,098 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-10 18:49:56,294 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-10 18:49:56,294 INFO  __main__        - Device: cuda:0
+2023-01-10 18:49:56,294 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-10 18:50:29,048 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-10 18:50:29,048 INFO  __main__        - Device: cuda:0
+2023-01-10 18:50:29,048 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:06:57,615 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-12 20:06:57,615 INFO  __main__        - Device: cuda:0
+2023-01-12 20:06:57,615 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:25:17,522 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-12 20:25:17,522 INFO  __main__        - Device: cuda:0
+2023-01-12 20:25:17,522 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:26:05,174 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-12 20:26:05,174 INFO  __main__        - Device: cuda:0
+2023-01-12 20:26:05,174 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:40:12,169 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-12 20:40:12,169 INFO  __main__        - Device: cuda:0
+2023-01-12 20:40:12,169 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:41:20,250 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-12 20:41:20,250 INFO  __main__        - Device: cuda:0
+2023-01-12 20:41:20,250 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:41:38,391 INFO  __main__        - Log file is ../logs/ResNet_2//log.log
+2023-01-12 20:41:38,391 INFO  __main__        - Device: cuda:0
+2023-01-12 20:41:38,391 INFO  __main__        - Fold: 0, Model: ResNet
+2023-01-12 20:42:21,725 INFO  __main__        - Epoch: 0/2
+2023-01-12 20:42:21,725 INFO  __main__        - Average Training Loss: 1.1135420938332876
+2023-01-12 20:42:21,725 INFO  __main__        - Average Validation Loss: 1.084028524160385
+2023-01-12 20:42:21,725 INFO  __main__        - Average Training Acc: 37.916666666666664
+2023-01-12 20:42:21,725 INFO  __main__        - Average Validation acc: 38.75
+2023-01-12 20:42:21,725 INFO  __main__        - New High Acc:  40.0
+2023-01-12 20:43:00,893 INFO  __main__        - Epoch: 1/2
+2023-01-12 20:43:00,893 INFO  __main__        - Average Training Loss: 0.86080335577329
+2023-01-12 20:43:00,893 INFO  __main__        - Average Validation Loss: 1.2693578879038492
+2023-01-12 20:43:00,893 INFO  __main__        - Average Training Acc: 66.66666666666666
+2023-01-12 20:43:00,893 INFO  __main__        - Average Validation acc: 36.25
+2023-01-12 20:43:08,457 INFO  __main__        - Fold/Acc: 40.0 : 0
+2023-01-12 20:43:08,457 INFO  __main__        - Fold/Loss: 1.1415490865707398 :0
+2023-01-12 20:43:08,457 INFO  __main__        - Fold: 1, Model: ResNet
+2023-01-12 20:43:46,564 INFO  __main__        - Epoch: 0/2
+2023-01-12 20:43:46,580 INFO  __main__        - Average Training Loss: 1.0688162684440612
+2023-01-12 20:43:46,580 INFO  __main__        - Average Validation Loss: 0.8606365442276
+2023-01-12 20:43:46,580 INFO  __main__        - Average Training Acc: 44.583333333333336
+2023-01-12 20:43:46,580 INFO  __main__        - Average Validation acc: 65.0
+2023-01-12 20:43:46,580 INFO  __main__        - New High Acc:  50.83333333333333
+2023-01-12 20:44:24,192 INFO  __main__        - Epoch: 1/2
+2023-01-12 20:44:24,192 INFO  __main__        - Average Training Loss: 0.5845744386315346
+2023-01-12 20:44:24,192 INFO  __main__        - Average Validation Loss: 1.5973320682843526
+2023-01-12 20:44:24,192 INFO  __main__        - Average Training Acc: 79.58333333333333
+2023-01-12 20:44:24,192 INFO  __main__        - Average Validation acc: 42.5
+2023-01-12 20:44:31,484 INFO  __main__        - Fold/Acc: 40.0 : 1
+2023-01-12 20:44:31,484 INFO  __main__        - Fold/Loss: 1.7465991059939066 :1
+2023-01-12 20:44:31,484 INFO  __main__        - ResNet Training completed in -3m 7s
