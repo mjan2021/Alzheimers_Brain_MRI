@@ -1,4 +1,4 @@
-## Alzheimers Classification using Brain MRI's
+# Alzheimers Classification using Brain MRI's
 
 ### Usage
 
