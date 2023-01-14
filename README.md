@@ -22,7 +22,7 @@ Parameters: <br>
 
 
 ### Dataset
-
+Download the dataset from the link below to 'data/' directory
 Kaggle : [Alzheimers Brain MRI](https://www.kaggle.com/datasets/basheersaeed/alzheimers-brain-mri)
 
 #### Description
