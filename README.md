@@ -10,7 +10,7 @@ Navigate to `src/`
 
 `python train.py --model model_name --epochs no_of_epochs`
 
-Parameters
+Parameters: <br>
 --epochs number of epochs <br>
 --lr learning rate <br>
 --batch batch size <br>
@@ -21,13 +21,13 @@ Parameters
 --logger tensorboard(tb) or wandb(eb) <br>
 
 
---
 ### Dataset
 
 Kaggle : [Alzheimers Brain MRI](https://www.kaggle.com/datasets/basheersaeed/alzheimers-brain-mri)
 
 #### Description
     -   Number of Classes : 3
+    -   Image Size: 2048 x 2048
     -   Total Images : 600
         -   AD : 200
         -   MCI : 200
@@ -39,5 +39,4 @@ Kaggle : [Alzheimers Brain MRI](https://www.kaggle.com/datasets/basheersaeed/alz
  -  ViT
  -  ConvNeXt
 
-### Results
-Results should be here
+
