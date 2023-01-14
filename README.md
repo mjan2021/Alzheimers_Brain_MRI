@@ -1,5 +1,4 @@
-<a href="https://zenodo.org/badge/latestdoi/"><img src="https://zenodo.org/badge/.svg" alt="Citation"></a>
-## Alzheimers Classification using Brain MRI's
+# Alzheimers Classification using Brain MRI's
 
 ### Usage
 
