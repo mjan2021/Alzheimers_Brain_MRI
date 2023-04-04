@@ -8,7 +8,7 @@
 #### Training 
 Navigate to `src/`
 
-`python train.py --model model_name --epochs no_of_epochs`
+`python train.py `
 
 Parameters: <br>
 --epochs number of epochs <br>

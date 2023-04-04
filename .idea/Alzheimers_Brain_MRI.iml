@@ -3,6 +3,16 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/data/MRI/Training" />
+      <excludeFolder url="file://$MODULE_DIR$/data/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/models/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/models/GAN" />
+      <excludeFolder url="file://$MODULE_DIR$/notebooks/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/save/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/save/500" />
+      <excludeFolder url="file://$MODULE_DIR$/src/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Tensorboard/EfficientNet" />
+      <excludeFolder url="file://$MODULE_DIR$/Tensorboard/ResNet" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
